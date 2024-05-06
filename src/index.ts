@@ -7,7 +7,7 @@
 const MAX_CONFIGS: number = 200
 const INCLUDE_ORIGINAL: boolean = false
 const ONLY_ORIGINAL: boolean = false
-const SELECTED_TYPES: Array<string> = ["vmess", "vless", "trojan"]
+const SELECTED_TYPES: Array<string> = ["vmess", "trojan"]
 const SELECTED_PROVIDERS: Array<string> = []
 
 const configProviders: Array<any> = [
